@@ -1,0 +1,1 @@
+## Evaluating Osteoscarcoma Tumor with differrent deep learning archetectures
