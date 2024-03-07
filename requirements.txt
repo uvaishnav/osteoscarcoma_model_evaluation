@@ -4,4 +4,5 @@ tensorflow
 scikit-learn
 matplotlib
 pillow
+opencv-python
 -e .
